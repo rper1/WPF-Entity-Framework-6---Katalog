@@ -1,0 +1,91 @@
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.exe.config
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\bin\Debug\EntityFramework.dll
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\bin\Debug\EntityFramework.SqlServer.dll
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\bin\Debug\EntityFramework.xml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\bin\Debug\EntityFramework.SqlServer.xml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.AssemblyReference.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.SuggestedBindingRedirects.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\MainWindow.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\App.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db_MarkupCompile.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db_MarkupCompile.lref
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\MainWindow.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.g.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.Properties.Resources.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.GenerateResource.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.CoreCompileInputs.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.CopyComplete
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\Styles\ButtonStyle.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\Styles\DataGridStyle.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\Styles\LabelStyle.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\Styles\TextBoxStyle.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\App.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\InsertAlbumWindow.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\InsertAlbumWindow.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\InsertAuthorWindow.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\InsertAuthorWindow.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.exe.config
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\bin\Debug\EntityFramework.dll
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\bin\Debug\EntityFramework.SqlServer.dll
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\bin\Debug\EntityFramework.xml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\bin\Debug\EntityFramework.SqlServer.xml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.AssemblyReference.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.SuggestedBindingRedirects.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\Styles\ButtonStyle.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\Styles\DataGridStyle.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\Styles\LabelStyle.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\Styles\TextBoxStyle.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\InsertAlbumWindow.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\InsertAuthorWindow.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\MainWindow.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\App.g.cs
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db_MarkupCompile.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db_MarkupCompile.lref
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\App.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\InsertAlbumWindow.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\InsertAuthorWindow.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\MainWindow.baml
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.g.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.Properties.Resources.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.GenerateResource.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.CoreCompileInputs.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.CopyComplete
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db - 15\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\EF_3hudebni_db\EF_3hudebni_db\obj\Debug\Styles\WindowStyle.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.exe.config
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.exe
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\bin\Debug\EF_3hudebni_db.pdb
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\bin\Debug\EntityFramework.dll
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\bin\Debug\EntityFramework.SqlServer.dll
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\bin\Debug\EntityFramework.xml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\bin\Debug\EntityFramework.SqlServer.xml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.AssemblyReference.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\Styles\ButtonStyle.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\Styles\DataGridStyle.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\Styles\LabelStyle.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\Styles\TextBoxStyle.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\Styles\WindowStyle.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\InsertAlbumWindow.g.cs
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\InsertAuthorWindow.g.cs
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\MainWindow.g.cs
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\App.g.cs
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db_MarkupCompile.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db_MarkupCompile.lref
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\App.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\InsertAlbumWindow.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\InsertAuthorWindow.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\MainWindow.baml
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.g.resources
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.Properties.Resources.resources
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.GenerateResource.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.CoreCompileInputs.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.csproj.CopyComplete
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.exe
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\4-EF6_MDF-HudebniAlba-main\EF_3hudebni_db\obj\Debug\EF_3hudebni_db.pdb

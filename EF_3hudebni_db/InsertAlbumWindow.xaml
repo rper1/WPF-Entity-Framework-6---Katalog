@@ -1,0 +1,34 @@
+﻿<Window x:Class="EF_3hudebni_db.InsertAlbumWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EF_3hudebni_db"
+        mc:Ignorable="d"
+        Title="Přidat album" Height="250" Width="300" WindowStartupLocation="CenterScreen">
+	<Grid Margin="15, 0">
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="*"/>
+			<ColumnDefinition Width="2*"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="3*"/>
+			<RowDefinition Height="2*"/>
+		</Grid.RowDefinitions>
+		<StackPanel Margin="0, 20">
+			<Label Content="Autor"/>
+			<Label Content="Název alba"/>
+			<Label Content="Rok vydání"/>
+		</StackPanel>
+		<StackPanel Grid.Column="1" Margin="0, 20">
+			<TextBox Name="txtAuthorName" ToolTip="Modré pole nelze editovat" IsReadOnly="True" 
+					 Background="LightCyan" TextWrapping="Wrap"/>
+			<TextBox Name="txtAlbumName" TextWrapping="Wrap" TextChanged="txtAlbumName_TextChanged"/>
+			<TextBox Name="txtReleased" MaxLength="4" TextWrapping="Wrap" TextChanged="txtReleased_TextChanged" PreviewTextInput="NumericOnly"/>
+		</StackPanel>
+		<Button Name="btnAddAlbum" Content="Přidat album" IsDefault="True" Grid.Row="1" 
+				Grid.ColumnSpan="2" HorizontalAlignment="Center" 
+				VerticalAlignment="Center" Click="btnAddAlbum_Click"/>
+		<Button IsCancel="True" Width="0" Height="0"/>
+	</Grid>
+</Window>
